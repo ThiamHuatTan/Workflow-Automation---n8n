@@ -4,7 +4,7 @@ a) [Automated Vehicle Tracking System](https://github.com/ThiamHuatTan/Workflow-
 
 b) [Intelligent Customer Triage Agent](https://github.com/ThiamHuatTan/Workflow-Automation---n8n/blob/main/Intelligent%20Customer%20Triage%20Agent%20using%20n8n.pdf)
 
-c) [MyCareersFutureJobsSearch]
+c) [MyCareersFutureJobsSearch](https://github.com/ThiamHuatTan/Workflow-Automation---n8n/blob/main/MyCareersFutureJobs%20Extraction%20with%20n8n.pdf)
 
 d) [Product Demo Feedback Automation](https://github.com/ThiamHuatTan/Workflow-Automation---n8n/blob/main/Product%20Demo%20Feedback%20Automation%20with%20n8n.pdf)
 
