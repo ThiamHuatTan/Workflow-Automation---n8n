@@ -1,4 +1,4 @@
-This repo of Workflow-Automation---n8n contains several applications using n8n for Workflow Automation, including using AI Agents.
+This Workflow-Automation---n8n repository showcases multiple applications built with n8n for workflow automation, including examples that leverage AI agents.
 
 a) [Automated Vehicle Tracking System](https://github.com/ThiamHuatTan/Workflow-Automation---n8n/blob/main/Automated%20Vehicle%20Tracking%20System%20using%20n8n.pdf)
 
