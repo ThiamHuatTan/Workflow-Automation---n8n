@@ -10,4 +10,6 @@ d) [Product Demo Feedback Automation](https://github.com/ThiamHuatTan/Workflow-A
 
 e) [Real-time Update of Carpark Lot Availability](https://github.com/ThiamHuatTan/Workflow-Automation---n8n/blob/main/Real-time%20Update%20of%20Carpark%20Lot%20Availability%20with%20n8n.pdf)
 
-f) [Smart AI Email Assistant](https://github.com/ThiamHuatTan/Workflow-Automation---n8n/blob/main/Smart%20AI%20Email%20Assistant%20using%20n8n.pdf)
+f) [Retrieve Sales Insights with AI Agents](https://github.com/ThiamHuatTan/Workflow-Automation---n8n/blob/main/Retrieve%20Sales%20Insights%20using%20n8n%20with%20AI%20Agents.pdf) 
+
+g) [Smart AI Email Assistant](https://github.com/ThiamHuatTan/Workflow-Automation---n8n/blob/main/Smart%20AI%20Email%20Assistant%20using%20n8n.pdf)
