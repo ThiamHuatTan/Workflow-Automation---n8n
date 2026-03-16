@@ -19,5 +19,3 @@ g) [Real-time Update of Carpark Lot Availability](https://github.com/ThiamHuatTa
 h) [Retrieve Sales Insights with AI Agents](https://github.com/ThiamHuatTan/Workflow-Automation---n8n/blob/main/Retrieve%20Sales%20Insights%20using%20n8n%20with%20AI%20Agents.pdf) 
 
 i) [Smart AI Email Assistant](https://github.com/ThiamHuatTan/Workflow-Automation---n8n/blob/main/Smart%20AI%20Email%20Assistant%20using%20n8n.pdf)
-
-j) [Wah Loon Use Cases](https://github.com/ThiamHuatTan/Workflow-Automation---n8n/blob/main/Wah%20Loon%20Use%20Cases.pdf)
